@@ -1,0 +1,14 @@
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\bin\Debug\net8.0\NomeProject.exe
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\bin\Debug\net8.0\NomeProject.deps.json
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\bin\Debug\net8.0\NomeProject.runtimeconfig.json
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\bin\Debug\net8.0\NomeProject.dll
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\bin\Debug\net8.0\NomeProject.pdb
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.AssemblyInfoInputs.cache
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.AssemblyInfo.cs
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.csproj.CoreCompileInputs.cache
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.dll
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\refint\NomeProject.dll
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.pdb
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\NomeProject.genruntimeconfig.cache
+C:\Users\IEK-02\Desktop\LUCAS\NomeProject\obj\Debug\net8.0\ref\NomeProject.dll
